@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a Physics Undergraduate currently working on various projects and managing the CUFC website.
 
 <!--
 **Arun-Atwal/Arun-Atwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
